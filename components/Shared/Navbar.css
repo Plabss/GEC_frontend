@@ -1,0 +1,18 @@
+.forFont a span{
+    font-size: 16px;
+    font-family: system-ui;
+    padding : 15px 20px
+}
+
+.forFont a span:hover {
+    padding: 20px;
+    font-size: 16px;
+    font-family: system-ui;
+    background-color: whitesmoke;
+}
+.NaVLabel{
+    padding-bottom: 15px;
+}
+.forIconInNav{
+    margin-bottom: 16px;
+}

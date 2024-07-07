@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.forInputFilter input,select{
+    height: 55px
+}
+.forInputFilter button{
+    margin-top: 0.5rem;
+}
+
+
+
+  
